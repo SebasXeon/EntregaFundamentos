@@ -1,0 +1,10 @@
+P1;Producto1;1445.0
+P2;Producto2;6459.0
+P3;Producto3;8660.0
+P4;Producto4;8326.0
+P5;Producto5;5281.0
+P6;Producto6;2282.0
+P7;Producto7;4051.0
+P8;Producto8;5419.0
+P9;Producto9;6365.0
+P10;Producto10;5679.0

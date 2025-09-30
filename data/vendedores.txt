@@ -1,0 +1,5 @@
+CC;88981787;Pedro;Martinez
+CC;77019662;Tatiana;Lopez
+CC;95592014;Ana;Perez
+CC;83911059;Pedro;Rodriguez
+CC;61938546;Pedro;Gomez
